@@ -11,7 +11,7 @@ public class Hamster extends Pet {
 
     @Override
     public String play() {
-        return "play in wheel";
+        return "runs in wheel";
     }
 
     public String getFavoriteToy() {
